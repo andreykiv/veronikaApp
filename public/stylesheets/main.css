@@ -1,0 +1,23 @@
+body {
+    background: Snow;
+}
+
+#inlineElement {
+    display: inline;
+}
+
+#nameAlign{
+    text-align: center;
+}
+
+#centeredText {
+    text-align: center;
+}
+
+.centerButton {
+    text-align: center;
+}
+
+.mainTheme{
+    background-color: #E95420;
+}
